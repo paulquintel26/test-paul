@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine erste Webseite</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f9;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 1rem;
+        }
+        main {
+            margin: 2rem;
+        }
+        footer {
+            background: #333;
+            color: white;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen auf meiner ersten Webseite!</h1>
+    </header>
+    <main>
+        <p>Dies ist eine einfache HTML-Seite mit etwas CSS für das Styling.</p>
+        <p>Erstelle deine eigene Webseite und lerne, wie das Internet funktioniert!</p>
+    </main>
+    <footer>
+        <p>© 2024 Paul Quintel</p>
+    </footer>
+</body>
+</html>
